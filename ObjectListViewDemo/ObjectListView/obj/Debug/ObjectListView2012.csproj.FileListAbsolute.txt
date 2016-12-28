@@ -1,0 +1,9 @@
+d:\UprDan\Orders\ObjectListViewDemo\ObjectListView\bin\Debug\ObjectListView.XML
+d:\UprDan\Orders\ObjectListViewDemo\ObjectListView\bin\Debug\ObjectListView.dll
+d:\UprDan\Orders\ObjectListViewDemo\ObjectListView\bin\Debug\ObjectListView.pdb
+d:\UprDan\Orders\ObjectListViewDemo\ObjectListView\obj\Debug\ObjectListView2012.csprojFakesResolveAssemblyReference.cache
+d:\UprDan\Orders\ObjectListViewDemo\ObjectListView\obj\Debug\BrightIdeasSoftware.Properties.Resources.resources
+d:\UprDan\Orders\ObjectListViewDemo\ObjectListView\obj\Debug\BrightIdeasSoftware.ColumnSelectionForm.resources
+d:\UprDan\Orders\ObjectListViewDemo\ObjectListView\obj\Debug\ObjectListView2012.csproj.GenerateResource.Cache
+d:\UprDan\Orders\ObjectListViewDemo\ObjectListView\obj\Debug\ObjectListView.dll
+d:\UprDan\Orders\ObjectListViewDemo\ObjectListView\obj\Debug\ObjectListView.pdb
